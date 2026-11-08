@@ -1,0 +1,3 @@
+customtkinter>=5.2.2
+# opsional (JPG valid berupa gambar asli penuh, bukan template kecil):
+pillow>=10.0

@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Build / packaging ---
+build/
+dist/
+*.spec
+
+# --- Runtime artifacts (dibuat app saat berjalan) ---
+config.json
+error.log
+test_output/
+New folder/
+
+# --- Testing / tooling ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- IDE / OS ---
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
